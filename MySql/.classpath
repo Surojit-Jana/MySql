@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="library/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="lib" path="library/testng-7.8.0.jar"/>
+	<classpathentry kind="lib" path="library/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="library/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="library/webdrivermanager-5.5.1.jar"/>
+	<classpathentry kind="lib" path="library/httpclient-4.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
